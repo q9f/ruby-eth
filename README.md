@@ -1,3 +1,7 @@
+⚠️⚠️⚠️ `eth` is now fully maintained (again) and this should no longer be used. please use: https://github.com/se3000/ruby-eth
+
+---
+
 # Eth (Patched for Ruby 3)
 [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/q9f/ruby-eth/Build/q9f/release/patch)](https://github.com/q9f/ruby-eth/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/3398dbeb83d7fcb690eb/maintainability)](https://codeclimate.com/github/q9f/ruby-eth/maintainability)
